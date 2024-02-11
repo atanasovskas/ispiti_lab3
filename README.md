@@ -1,5 +1,12 @@
 # mis_lab3
 
+
+![lab3-1](https://github.com/atanasovskas/ispiti_lab3/assets/117315637/1bed2b3a-1303-4275-94c9-f739fb554c9c)  
+
+![lab3-2](https://github.com/atanasovskas/ispiti_lab3/assets/117315637/eec58d55-186b-4247-bff7-0b0622e9e04c)
+
+![lab-33](https://github.com/atanasovskas/ispiti_lab3/assets/117315637/d3b34c87-de8a-4a09-99b7-5f4c27f71a79)
+
 A new Flutter project.
 
 ## Getting Started
